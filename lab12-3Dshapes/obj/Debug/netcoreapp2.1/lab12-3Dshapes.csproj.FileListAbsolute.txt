@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\bin\Debug\netcoreapp2.1\lab12-3Dshapes.deps.json
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\bin\Debug\netcoreapp2.1\lab12-3Dshapes.runtimeconfig.json
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\bin\Debug\netcoreapp2.1\lab12-3Dshapes.runtimeconfig.dev.json
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\bin\Debug\netcoreapp2.1\lab12-3Dshapes.dll
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\bin\Debug\netcoreapp2.1\lab12-3Dshapes.pdb
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.AssemblyInfo.cs
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.dll
+C:\Users\user\Desktop\C# practice\lab12-3Dshapes\lab12-3Dshapes\obj\Debug\netcoreapp2.1\lab12-3Dshapes.pdb
